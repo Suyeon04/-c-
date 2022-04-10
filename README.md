@@ -1,11 +1,12 @@
-등급 처리 프로그램
----------------------
+# 등급 처리 프로그램
 
 
-
-<br>Tool & Skills
+<br>Built With
 --------------------
-c++, mysql
+<ul>
+  <li>Mysql</li>
+  <li>c++</li>
+</ul>
 
 <br>동아리 소개
 --------------------
@@ -17,10 +18,10 @@ c++, mysql
 <br>Features
 --------------------
 <ul>
-  <li></li>
-  <li>JS프로젝트</li>
-  <li>JS활동</li>
-  <li>Q&A</li>
+  <li>회원 가입(로그인)</li>
+  <li>중간/기말/수행평가 평가 비율 기록</li>
+  <li>중간/기말/수행평가 점수 기록</li>
+  <li>고사 점수 및 총 점수 확인</li>
 </ul>
 
 <br>실행 화면
@@ -36,28 +37,3 @@ c++, mysql
 
 #### JS 활동
 ![png_Home](./img/Activity.png)
-
-<br>Built With
---------------------
-<ul>
-  <li>AWS</li>
-  <li>Node.js</li>
-  <li>Mysql</li>
-  <li>HTML/CSS/JavaScript</li>
-</ul>
-
-
-<br>실행 화면
---------------------
-#### 메인 화면
-![png_Home](./img/Home.png)
-
-#### JS 지원
-![png_Home](./img/Apply.png)
-
-#### JS 프로젝트
-![png_Home](./img/Project.png)
-
-#### JS 활동
-![png_Home](./img/Activity.png)
-

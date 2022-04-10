@@ -1,0 +1,8 @@
+﻿  ForExam.cpp
+C:\Users\user\Desktop\2209_박수연\ForExam.cpp(545,21): warning C4129: '%': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\user\Desktop\2209_박수연\ForExam.cpp(545,21): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\user\Desktop\2209_박수연\ForExam.cpp(50,17): warning C4101: 'row2' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\2209_박수연\ForExam.cpp(282,13): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\2209_박수연\ForExam.cpp(55,7): warning C4101: 'show' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\2209_박수연\ForExam.cpp(49,23): warning C4101: 'myresult2' :참조되지 않은 지역 변수입니다.
+  2209_박수연.vcxproj -> C:\Users\user\Desktop\2209_박수연\x64\Debug\2209_박수연.exe

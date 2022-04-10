@@ -23,6 +23,7 @@
 ### SCREENSHOT
 
 * 첫 화면
+ <img src=https://github.com/Suyeon04/Rating_Processing_Program/blob/main/img/005.png/>
 
 * 로그인/회원 가입 화면
 * 메뉴화면

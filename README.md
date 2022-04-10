@@ -22,14 +22,14 @@
 
 ### SCREENSHOT
 
-* 첫 화면
+# 첫 화면
  <img src=https://github.com/Suyeon04/Rating_Processing_Program/blob/main/img/005.png/>
-* 로그인/회원 가입 화면
+# 로그인/회원 가입 화면
 <img src=https://github.com/Suyeon04/Rating_Processing_Program/blob/main/img/006.png/>
-* 메뉴화면
+# 메뉴화면
 <img src=https://github.com/Suyeon04/Rating_Processing_Program/blob/main/img/007.png/>
-* 중간/기말/수행평가 기록 화면
+# 중간/기말/수행평가 기록 화면
 <img src=https://github.com/Suyeon04/Rating_Processing_Program/blob/main/img/008.png/>
-* 점수 확인 화면
+# 점수 확인 화면
 <img src=https://github.com/Suyeon04/Rating_Processing_Program/blob/main/img/009.png/>
 

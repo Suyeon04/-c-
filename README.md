@@ -19,16 +19,13 @@
   <li>고사 점수 및 총 점수 확인</li>
 </ul>
 
-<br>실행 화면
---------------------
-#### 메인 화면
-![png_Home](./img/Home.png)
 
-#### JS 지원
-![png_Home](./img/Apply.png)
+### SCREENSHOT
 
-#### JS 프로젝트
-![png_Home](./img/Project.png)
+* 첫 화면
 
-#### JS 활동
-![png_Home](./img/Activity.png)
+* 로그인/회원 가입 화면
+* 메뉴화면
+* 중간/기말/수행평가 기록 화면
+* 점수 확인 화면
+
